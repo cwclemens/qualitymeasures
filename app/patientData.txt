@@ -1,0 +1,8 @@
+
+0 { age=null procs=partial[33530] }
+1 { age=14 procs=partial[33530] }
+2 { age=24 procs=partial[33530] }
+3 { age=14 procs=complete[33530] }
+4 { age=33 procs=complete[33530] }
+5 { age=20 procs=partial[33530,00566] }
+6 { age=null procs=partial[99344] }
